@@ -1,0 +1,139 @@
+
+body{
+     background-color:none;
+     }
+a{
+  color:black;
+  background-color:white;
+          outline-color: black;
+         border: 3px solid black;
+         
+
+  }
+  #pg1{
+    font-size: 17;
+  }
+  #pg2{
+        width:1100px;
+        height: 20px;
+  }
+#content{
+          background-color:#C0C0C0;
+          outline-color: black;
+         border: 3px solid black;
+         border-bottom: 0px;
+         width: 1200px;
+        height: 80px;
+        padding: 10px;
+        text-align: center;
+        margin-bottom: 0px;
+          }
+  #pg3{
+        background-color:none;
+        outline-color: black;
+        border: 3px solid black;
+        width: 1220px;
+        height: 500px;
+        text-align: center;
+        margin-top: 0px;
+        margin-bottom: 0px;
+      }
+
+  #pg4{
+      font-size: 35px;
+      font-style: bold 6px solid black;
+      text-align: center;
+    }   
+    #pg5 {
+  background-color: grey;
+  position: relative;
+  top: 65px;
+  left: 65px;
+   width: 300px;
+  height: 150px;
+  border: 3px solid black;
+}
+#pg6 {
+  background-color: grey;
+  position:absolute;
+  top:285px;
+  left :420px;
+   width: 300px;
+  height: 150px;
+border: 3px solid black;
+}
+#pg7 {
+  background-color: grey;
+  position: absolute;
+  top: 285px;
+  left: 760px;
+   width: 300px;
+  height: 150px;
+border: 3px solid black;
+}
+#p1{
+  width: 100px;
+  height: 20px;
+  text-align: center;
+  border: 3px solid black;
+  margin top:0px;
+  background-color: #F08080;
+  position : absolute;
+  top:-18px;
+  padding-top: 0px;
+  left:196px;
+
+}
+#p2{
+  width: 100px;
+  height: 20px;
+  text-align: center;
+  border: 3px solid black;
+  margin top:0px;
+   background-color: #C73E13;
+  position : absolute;
+  top:-18px;
+  padding-top: 0px;
+  left:196px;
+
+}
+#p3{
+  width: 100px;
+  height: 20px;
+  text-align: center;
+  border: 3px solid black;
+  margin top:0px;
+  background-color: #EFDC89;
+  position : absolute;
+  top:-18px;
+  padding-top: 0px;
+  left:196px;
+
+}
+#t1{
+  margin-top: 25px;
+  text-align: left;
+}
+#t2{
+  margin-top: 25px;
+  text-align: left;
+}
+#t3{
+  margin-top: 25px;
+  text-align: left;
+}
+#p4{
+  height:20px;
+  width:1220px;
+  margin top:0px;
+  border: 3px solid black;
+  border-right: 0px;
+  border-left:0px;
+  background-color: grey;
+  text-align: right;
+  color:black;
+  font-size-: 4px;
+  font-weight: 4px;
+  position : absolute;
+  top:575px;
+}
